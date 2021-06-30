@@ -1,1 +1,0 @@
-# ShapeAI_Bootcamp_Pydata
